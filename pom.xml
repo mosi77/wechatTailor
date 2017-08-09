@@ -16,6 +16,7 @@
         <module>wt-service-auth</module>
         <module>wt-service-statistic</module>
         <module>wt-service-msg</module>
+        <module>wt-test</module>
     </modules>
 
 

@@ -15,10 +15,16 @@
 
     <dependencies>
 
-        <!--  service 模块依赖util 模块 -->
+        <!--  wt-service-core 依赖 模块 -->
         <dependency>
-            <artifactId>dl_util</artifactId>
-            <groupId>com.dl</groupId>
+            <artifactId>wt-core</artifactId>
+            <groupId>com.herdsric.app.wechatTailor</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <artifactId>wt-util</artifactId>
+            <groupId>com.herdsric.app.wechatTailor</groupId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 

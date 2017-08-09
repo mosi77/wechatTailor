@@ -22,6 +22,7 @@
       <module name="wt-service-core" target="1.8" />
       <module name="wt-service-msg" target="1.5" />
       <module name="wt-service-statistic" target="1.5" />
+      <module name="wt-test" target="1.5" />
       <module name="wt-util" target="1.5" />
       <module name="wt-web" target="1.8" />
     </bytecodeTargetLevel>

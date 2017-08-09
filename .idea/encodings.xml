@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/wt-service-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wt-service-msg" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wt-service-statistic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wt-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wt-util" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wt-web" charset="UTF-8" />
   </component>
