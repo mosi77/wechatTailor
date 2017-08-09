@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wt-core" />
+        <module name="wt-service-auth" />
+        <module name="wt-service-core" />
+        <module name="wt-service-msg" />
+        <module name="wt-service-statistic" />
+        <module name="wt-util" />
+        <module name="wt-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wechatTailor" target="1.5" />
+      <module name="wt-core" target="1.5" />
+      <module name="wt-service-auth" target="1.5" />
+      <module name="wt-service-core" target="1.8" />
+      <module name="wt-service-msg" target="1.5" />
+      <module name="wt-service-statistic" target="1.5" />
+      <module name="wt-util" target="1.5" />
+      <module name="wt-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

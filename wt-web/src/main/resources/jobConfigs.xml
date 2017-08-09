@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+	
+	<jobs>
+		
+		<job>
+	       <name>testTask1</name>
+	       <class>com.dl.util.job.test.TestTask1</class>
+	       <beginTime>00:01</beginTime>
+	       <ratioTime>86400000</ratioTime>
+	       <run>true</run>
+	       <runWhenStart>false</runWhenStart>
+        </job>
+        
+	</jobs>

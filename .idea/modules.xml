@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wechatTailor.iml" filepath="$PROJECT_DIR$/wechatTailor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wt-core/wt-core.iml" filepath="$PROJECT_DIR$/wt-core/wt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wt-service-auth/wt-service-auth.iml" filepath="$PROJECT_DIR$/wt-service-auth/wt-service-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wt-service-core/wt-service-core.iml" filepath="$PROJECT_DIR$/wt-service-core/wt-service-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wt-service-msg/wt-service-msg.iml" filepath="$PROJECT_DIR$/wt-service-msg/wt-service-msg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wt-service-statistic/wt-service-statistic.iml" filepath="$PROJECT_DIR$/wt-service-statistic/wt-service-statistic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wt-util/wt-util.iml" filepath="$PROJECT_DIR$/wt-util/wt-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wt-web/wt-web.iml" filepath="$PROJECT_DIR$/wt-web/wt-web.iml" />
+    </modules>
+  </component>
+</project>
